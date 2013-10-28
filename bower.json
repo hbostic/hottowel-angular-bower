@@ -8,9 +8,6 @@
                 "FontAwesome": "3.2.1",
                 "Bootstrap": ">=2.3.2 <3.0.0",
                 "toastr": ">=2.0.1",
-                "spinjs": ">=1.3",
-                "angularjs.core": ">=1.2.0rc3",
-                "angularjs.ngAnimate": ">=1.2.0rc3",
-                "angularjs.ngRoute": ">=1.2.0rc3"
+                "spinjs": ">=1.3"
   }
 }
