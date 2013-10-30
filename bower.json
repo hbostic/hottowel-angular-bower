@@ -8,8 +8,8 @@
   "dependencies": {
                 "jquery": ">=1.6.3",
                 "momentjs": ">=2.1.0",
-                "Font-Awesome": "3.2.1",
-                "Bootstrap": ">=2.3.2 <3.0.0",
+                "font-awesome": "3.2.1",
+                "bootstrap": ">=2.3.2 <3.0.0",
                 "toastr": ">=2.0.1",
                 "spinjs": ">=1.3"
   }
