@@ -1,7 +1,10 @@
 {
   "name": "angular.hottowel",
   "version": "1.0.0",
-  "main": [""],
+  "main": ["angular.js", "angular-route.js", "angular-animate.js"],
+  "ignore": [
+	".md"
+  ],
   "dependencies": {
                 "jquery": ">=1.6.3",
                 "momentjs": ">=2.1.0",
